@@ -1,15 +1,26 @@
-# Project03-JuicyBreakout
+Project03-JuicyBreakout
 
-# Project Name
+Project Name
+Juice BREAKER GAME
+
 Context and date
 
+Breaker game
+
+10/12/2024
+
 Description
+Paddle breaker game, Synth themed
 
-## Implementation
-Which features you included
+Implementation
+Added menu music made in garage band
+Added shake to the main menu
+Added custom robot eyes to follow the ball
 
-## References
+References
 
-## Future Development
+Future Development
+None
 
-## Created by
+Created by
+Ian Fernandez
